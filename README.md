@@ -1,11 +1,12 @@
-# About Me...?
-## Hallo There! I am TurtleLyfe. c;
+# // - // - // - // - // - // - // - // - //
+## Hullo there ~ I am Agatha. 
 
-Let's move on to Questions and Answers!
-- **When did I join?** - *4/04/2025* (I've known about this place for *ages* though)
-- **Interests..?** - Minecraft, (I have <a href="https://www.planetminecraft.com/member/agatha/">proof</a> of that.) :B
-- **Languages..?** - For Humans, it's English. For computers, well I am learning to code in a couple of c languages (C++ and C#). I also have some experience in JavaScript, Java and HTML, but please bear in mind this is limited. :< 
-- **Collaborations?** - I haven't *progressed* enough to help anyone out, but if you can help me with my project(?) or you think I can help YOU, feel free to contact me. c:
-- **How *can* **I** contact you..?** - Either Discord (@theelysianpixel) or Twitter (@ElliePixS_) is fine. 
-- *And lastly!* **Any other random stuff we should know..?** - **Yes**, I like and **use** emoticons, if you can't already tell.
-  </br></br>Bye! ╮(╯▽╰)╭
+--> This account was made on *4/04/2025*
+
+ Some important notes: 
+
+- Main languages are **C++** and **C#** *(working on two languages at once, how silly)*; I have dabbled in a bit of **Java**, **Javascript**, **HTML/CSS** and *(in a very small amount)* **assembly**.. but these are extremely limited, so I'm not useful there.
+- Fluent in English and the only language I speak, *so if I cannot understand your language I apologise; I haven't done much else..* 
+- Currently messing around with several programs and looking for my next project. •>•
+- *(Oh, and my turtle says 'Hello' too.)* 
+ 
